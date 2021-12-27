@@ -1,0 +1,34 @@
+1000000:
+merge sort: 0.361725
+qsort: 0.218415
+merge sort: 0.199138
+qsort: 0.217766
+merge sort: 0.160452
+qsort: 0.217356
+merge sort: 0.105161
+qsort: 0.217770
+merge sort: 0.078664
+qsort: 0.217492
+merge sort: 0.084677
+qsort: 0.274487
+10000000:
+merge sort: 3.983908
+qsort: 2.517331
+merge sort: 2.174457
+qsort: 2.537053
+merge sort: 1.739076
+qsort: 2.537350
+merge sort: 1.143598
+qsort: 2.525940
+merge sort: 0.789543
+qsort: 2.541954
+merge sort: 0.695292
+qsort: 2.537083
+merge sort: 0.743359
+qsort: 2.535606
+merge sort: 1.024594
+qsort: 2.539677
+merge sort: 1.493573
+qsort: 2.578000
+merge sort: 1.250511
+qsort: 2.539947
